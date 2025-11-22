@@ -12,17 +12,6 @@
       "dataFile": "BZ75-Divine/Data.zip",
       "category": "tank-remodel",
       "tags": ["bz-75", "tank", "remodel"]
-    },
-    {
-      "id": "hangar-custom",
-      "name": "Кастомный Ангар",
-      "description": "Восстановленный ангар от команды Forblitz",
-      "version": "RELEASE",
-      "author": "ASSTRALLITY",
-      "preview": "https://raw.githubusercontent.com/asstrallity-ui/Mods_blitz/main/Hangar/preview.jpg",
-      "dataFile": "Hangar/Data.zip",
-      "category": "hangar",
-      "tags": ["hangar", "custom"]
     }
   ]
 }
